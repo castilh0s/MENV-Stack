@@ -3,6 +3,7 @@ const pkg = require('./package')
 
 module.exports = {
   mode: 'spa',
+  srcDir: './nuxt/',
 
   /*
    ** Headers of the page
